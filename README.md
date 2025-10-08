@@ -1,2 +1,2 @@
 # power-bi
-sales analysis of online superstore ,ETL many more
+ZARA sales analysis by power bi ETL and all important concept of power bi using diffreent module in it
